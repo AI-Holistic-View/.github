@@ -1,4 +1,4 @@
-## Math & AI Institute 
+## AI Holistic View
 
 We are an independent organization focused on generative AI and related areas. 
 
