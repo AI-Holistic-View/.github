@@ -1,3 +1,5 @@
+<img src="./aihview-animated-tagline.svg" alt="AI Holistic View — Animated Tagline" width="100%">
+
 # 🌍 AI Holistic View
 
 **AI Holistic View** is a group of **AI problem-solvers with a broad scope**.  
