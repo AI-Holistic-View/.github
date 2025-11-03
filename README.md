@@ -1,4 +1,4 @@
-<img src="./aihview-animated-tagline.svg" alt="AI Holistic View — Animated Tagline" width="100%">
+<img src="./aihview-animated-title-only.svg" alt="AI Holistic View — Animated Title" width="100%">
 
 # 🌍 AI Holistic View
 
